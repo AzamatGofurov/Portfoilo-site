@@ -38,7 +38,7 @@ html{
    display: flex;
    align-items: center;
    flex-direction: row;
-   align-content: 
+   align-content: center;
 }
 
 .main-header__brand img{
