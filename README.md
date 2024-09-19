@@ -8,7 +8,7 @@
 
 This is my first portfolio project, showcasing my journey as a web developer and trader. The website is built using **HTML**, **CSS**, and **JavaScript** to present a professional portfolio, the services I offer, and contact details. I am constantly developing my skills and actively working on new projects to expand my expertise.
 
-![Demo](https://github.com/AzamatGofurov/Portfoilo-site/blob/main/images/demo.png)
+![Demo](https://github.com/AzamatGofurov/Portfoilo-site/blob/main/images/portfgif.gif)
 
 ## 🚀 Features
 
