@@ -23,4 +23,4 @@ To view or modify this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AzamatGofurov/AzamatGofurov.github.io.git
+   git clone https://github.com/AzamatGofurov/Portfoilo-site.git
