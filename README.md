@@ -1,6 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/AzamatGofurov/Milliy-Taomlar)
-![GitHub forks](https://img.shields.io/github/forks/AzamatGofurov/Milliy-Taomlar)
-![GitHub issues](https://img.shields.io/github/issues/AzamatGofurov/Milliy-Taomlar)
+![GitHub stars](https://img.shields.io/github/stars/AzamatGofurov/Portfoilo-site)
+![GitHub forks](https://img.shields.io/github/forks/AzamatGofurov/Portfoilo-site)
+![GitHub issues](https://img.shields.io/github/issues/AzamatGofurov/Portfoilo-site)
 
 # Portfolio Website 🚀
 
