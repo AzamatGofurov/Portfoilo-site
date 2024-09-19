@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/AzamatGofurov/Milliy-Taomlar)
+![GitHub forks](https://img.shields.io/github/forks/AzamatGofurov/Milliy-Taomlar)
+![GitHub issues](https://img.shields.io/github/issues/AzamatGofurov/Milliy-Taomlar)
+
 # Portfolio Website 🚀
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Project-blue?style=for-the-badge)
